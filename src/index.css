@@ -21,3 +21,8 @@
           text-align: start;
           list-style-type: none;
         }
+
+        form {
+          text-align: left;
+        }
+
